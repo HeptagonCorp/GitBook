@@ -27,7 +27,10 @@
 * [Metaverse -4](idea/metaverse-4.md)
 * [Hepta Token](idea/hepta-token.md)
 * [HEPTAGON METAVERSE ECOSYSTEM](idea/heptagon-metaverse-ecosystem.md)
-* [Page 1](idea/page-1.md)
+* [HEPTAGON METAVERSE REVENUES](idea/heptagon-metaverse-revenues.md)
+* [Income & Expenses](idea/income-and-expenses.md)
+* [Distribution of stake income](idea/distribution-of-stake-income.md)
+* [HEPTA TOKENOMICS](idea/hepta-tokenomics.md)
 
 ## Group 2
 
