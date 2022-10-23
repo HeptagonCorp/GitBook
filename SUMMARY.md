@@ -19,6 +19,14 @@
 * [INDUSTRY ASSESSMENT](idea/industry-assessment.md)
 * [Sports Industry](idea/sports-industry.md)
 * [KEY COMPONENTS OF THE SPORTS INDUSTRY](idea/key-components-of-the-sports-industry.md)
+* [HEPTAGON METAVERSE](idea/heptagon-metaverse-2.md)
+* [Heptagon Adevertising](idea/heptagon-adevertising.md)
+* [Metaverse -1](idea/metaverse-1.md)
+* [Metaverse -2](idea/metaverse-2.md)
+* [Metaverse -3](idea/metaverse-3.md)
+* [Metaverse -4](idea/metaverse-4.md)
+* [Hepta Token](idea/hepta-token.md)
+* [HEPTAGON METAVERSE ECOSYSTEM](idea/heptagon-metaverse-ecosystem.md)
 * [Page 1](idea/page-1.md)
 
 ## Group 2
