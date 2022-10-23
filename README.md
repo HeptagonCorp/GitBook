@@ -61,33 +61,33 @@ The heptagon Metaverse is the new way of Life!
 ## Let's Stay Connected
 
 {% hint style="success" %}
-**Twitter :** _https://twitter.com/Heptagoncorp_
+**Twitter :** [_https://twitter.com/Heptagoncorp_](https://twitter.com/Heptagoncorp)__
 {% endhint %}
 
 {% hint style="success" %}
-**LinkedIn :** _https://linkedin.com/in/heptagon-metaverse-2b808523a_
+**LinkedIn :** [_https://linkedin.com/in/heptagon-metaverse-2b808523a_](https://linkedin.com/in/heptagon-metaverse-2b808523a)__
 {% endhint %}
 
 {% hint style="success" %}
-**Medium :** _https://medium.com/@heptagoncorp_
+**Medium :** [_https://medium.com/@heptagoncorp_](https://medium.com/@heptagoncorp)__
 {% endhint %}
 
 {% hint style="success" %}
-**Reddit :** _https://reddit.com/user/HeptagonCorp_
+**Reddit :** [_https://reddit.com/user/HeptagonCorp_](https://reddit.com/user/HeptagonCorp)__
 {% endhint %}
 
 {% hint style="success" %}
-**GitHub :** _https://github.com/HeptagonCorp_
+**GitHub :** [_https://github.com/HeptagonCorp_](https://github.com/HeptagonCorp)__
 {% endhint %}
 
 {% hint style="success" %}
-**Instagram :** _https://instagram.com/heptagoncorp_
+**Instagram :** [_https://instagram.com/heptagoncorp_](https://instagram.com/heptagoncorp)__
 {% endhint %}
 
 {% hint style="success" %}
-**Telegram Global :** _https://t.me/HeptagonGlobal_
+**Telegram Global :** [_https://t.me/HeptagonGlobal_](https://t.me/HeptagonGlobal)__
 {% endhint %}
 
 {% hint style="success" %}
-**Telegram Turkiye :** _https://t.me/HeptagonTurkiye_
+**Telegram Turkiye :** [_https://t.me/HeptagonTurkiye_](https://t.me/HeptagonTurkiye)__
 {% endhint %}
