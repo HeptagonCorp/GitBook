@@ -6,7 +6,7 @@ description: >-
 
 # HEPTAGON METAVERSE -1
 
-```
+```html
 <div align=justify>
 ```
 
@@ -16,6 +16,6 @@ description: >-
 
 &#x20;                   In this ecosystem, users will be able to produce NFTs and sell these NFTs in the NFT markets they have created... In this universe, where each user will join their own Avatars, users will be able to play individual or team sports with XR glasses and helmets. These games will be held globally and sports lovers of all ages and games will be rewarded with the ecosystem's own token.&#x20;
 
-```
+```html
 </div>
 ```
