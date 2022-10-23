@@ -8,7 +8,17 @@ layout: landing
 
 # WELCOME TO THE WORLD'S LARGEST STADIUM
 
-### Why is Heptagon Metaverse? <a href="#why-heptagon" id="why-heptagon"></a>
+## Documents
+
+{% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/" %}
+[WhitePaper](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/" %}
+[PitchDeck](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/)
+{% endcontent-ref %}
+
+## Why is Heptagon Metaverse? <a href="#why-heptagon" id="why-heptagon"></a>
 
 Heptagon is a productive and innovative platform where users can participate with their decentralized wallets and make their transactions using Hepta Token.
 
@@ -30,16 +40,6 @@ Sports Fans, Crypto-Currencies and Blockchain enthusiasts, and Metaverse lovers 
 
 The heptagon Metaverse is the new way of Life!
 
-## Documents
-
-{% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/" %}
-[WhitePaper](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/" %}
-[PitchDeck](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/)
-{% endcontent-ref %}
-
 ## Follow us in Press
 
 {% hint style="info" %}
@@ -58,10 +58,36 @@ The heptagon Metaverse is the new way of Life!
 [PRESS RELEASE - Heptagon launches new services in its Metaverse for sports enthusiasts](https://www.pressrelease.cc/2022/08/16/heptagon-launches-new-services-in-its-metaverse-for-sports-enthusiasts/)
 {% endhint %}
 
-
-
 ## Let's Stay Connected
 
 {% hint style="success" %}
-**Twitter** : [https://twitter.com/Heptagoncorp](https://twitter.com/Heptagoncorp)
+**Twitter :** _https://twitter.com/Heptagoncorp_
+{% endhint %}
+
+{% hint style="success" %}
+**LinkedIn :** _https://linkedin.com/in/heptagon-metaverse-2b808523a_
+{% endhint %}
+
+{% hint style="success" %}
+**Medium :** _https://medium.com/@heptagoncorp_
+{% endhint %}
+
+{% hint style="success" %}
+**Reddit :** _https://reddit.com/user/HeptagonCorp_
+{% endhint %}
+
+{% hint style="success" %}
+**GitHub :** _https://github.com/HeptagonCorp_
+{% endhint %}
+
+{% hint style="success" %}
+**Instagram :** _https://instagram.com/heptagoncorp_
+{% endhint %}
+
+{% hint style="success" %}
+**Telegram Global :** _https://t.me/HeptagonGlobal_
+{% endhint %}
+
+{% hint style="success" %}
+**Telegram Turkiye :** _https://t.me/HeptagonTurkiye_
 {% endhint %}
