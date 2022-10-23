@@ -6,7 +6,7 @@
 
 &#x20;    HEPTAs held as reserves will be burned and withdrawn from the market in the process.&#x20;
 
-<figure><img src=".gitbook/assets/Tokenomics (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Tokenomics.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;    Thus, HEPTA TOKEN is not with an increasing supply in the market, but HEPTA TOKEN with a reduced supply and ultimately a constant supply was created. If Softcap is not available, the HEPTAGON team will cover HEPTAGON developments from its own budget.&#x20;
 
