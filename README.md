@@ -39,3 +39,29 @@ The heptagon Metaverse is the new way of Life!
 {% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/" %}
 [PitchDeck](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/)
 {% endcontent-ref %}
+
+## Follow us in Press
+
+{% hint style="info" %}
+[MARKET WATCH - Heptagon launches new services in its Metaverse for sports enthusiasts](https://www.marketwatch.com/press-release/heptagon-launches-new-services-in-its-metaverse-for-sports-enthusiasts-2022-08-16?mod=search\_headline)
+{% endhint %}
+
+{% hint style="info" %}
+[Yahoo! Finance - Heptagon Turns Spectators into Players in the Game!](https://finance.yahoo.com/news/heptagon-turns-spectators-players-game-200000128.html)
+{% endhint %}
+
+{% hint style="info" %}
+[DIGITAL JOURNAL - Heptagon launches new services in its Metaverse for sports enthusiasts](https://www.digitaljournal.com/pr/heptagon-launches-new-services-in-its-metaverse-for-sports-enthusiasts-)
+{% endhint %}
+
+{% hint style="info" %}
+[PRESS RELEASE - Heptagon launches new services in its Metaverse for sports enthusiasts](https://www.pressrelease.cc/2022/08/16/heptagon-launches-new-services-in-its-metaverse-for-sports-enthusiasts/)
+{% endhint %}
+
+
+
+## Let's Stay Connected
+
+{% hint style="success" %}
+**Twitter** : [https://twitter.com/Heptagoncorp](https://twitter.com/Heptagoncorp)
+{% endhint %}
