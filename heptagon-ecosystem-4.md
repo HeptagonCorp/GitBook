@@ -6,7 +6,7 @@ Sponsorship agreements with Sports Clubs:&#x20;
 
 &#x20;  Club official products will be available on the Heptagon metaverse, both as NFTs and as real products, and these revenues will provide a new revenue stream to the collaborating clubs.
 
-<figure><img src=".gitbook/assets/photo_2022-10-23_17-27-15.jpg" alt=""><figcaption><p>Hepta Tokrn</p></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-10-23_17-27-15.jpg" alt=""><figcaption><p>Hepta Token</p></figcaption></figure>
 
 Heptagon as a new universe for Fan Tokens:&#x20;
 
