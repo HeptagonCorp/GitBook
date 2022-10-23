@@ -6,9 +6,11 @@ description: >-
 layout: landing
 ---
 
-# WELCOME TO THE WORLD'S LARGEST STADIUM
+# Heptagon Metaverse
 
-## Why is Heptagon Metaverse? <a href="#why-heptagon" id="why-heptagon"></a>
+## WELCOME TO THE WORLD'S LARGEST STADIUM
+
+### Why is Heptagon Metaverse? <a href="#why-heptagon" id="why-heptagon"></a>
 
 Heptagon is a productive and innovative platform where users can participate with their decentralized wallets and make their transactions using Hepta Token.
 

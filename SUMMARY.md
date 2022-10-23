@@ -1,3 +1,3 @@
 # Table of contents
 
-* [WELCOME TO THE WORLD'S LARGEST STADIUM](README.md)
+* [Heptagon Metaverse](README.md)
