@@ -6,8 +6,9 @@
 
 ***
 
-* [HEPTAGON METAVERSE -2](heptagon-metaverse-2/README.md)
-  * [HEPTAGON METAVERSE -1](heptagon-metaverse-2/heptagon-metaverse-1.md)
+* [HEPTAGON METAVERSE -2](heptagon-metaverse-2.md)
+* [HEPTAGON METAVERSE -2](heptagon-metaverse-2-1/README.md)
+  * [HEPTAGON METAVERSE -1](heptagon-metaverse-2-1/heptagon-metaverse-1.md)
 * [HEPTAGON ECOSYSTEM -1](heptagon-ecosystem-1.md)
 * [HEPTAGON ECOSYSTEM -2](heptagon-ecosystem-2.md)
 * [HEPTAGON ECOSYSTEM -3](heptagon-ecosystem-3.md)
