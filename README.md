@@ -40,6 +40,28 @@ Sports Fans, Crypto-Currencies and Blockchain enthusiasts, and Metaverse lovers 
 
 The heptagon Metaverse is the new way of Life!
 
+### About Heptagon
+
+:chains: Decentralised,
+
+Heptagon Team Believes in Decentralised Transactions provided by distributed ledger technology such as Blockchain.
+
+The Team is in favor of a trustless environment provided by Blockchain.
+
+:deciduous\_tree: A more Greener World,
+
+The team believes in the green world and the opportunities offered by the Metaverse for a greener world.
+
+:hourglass: Time and Ground
+
+In a trustless environment with the collaboration of Metaverse and Blockchain, Heptagon Team wants to make time more usable for people while making the ground infinite.
+
+:stadium: Sports for A more peaceful World
+
+The Team believes in Sport’s universal language that makes bridges between Cultures and makes the world more peaceful!
+
+:sparkles: More peaceful more greener more decentralized World!
+
 ## Follow us in Press
 
 {% hint style="info" %}
