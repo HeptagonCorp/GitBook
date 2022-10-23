@@ -6,7 +6,7 @@ description: >-
 
 # HEPTAGON METAVERSE -1
 
-&#x20;       Heptagon Metaverse mentioned above is focused to transport the world of sports to Metaverse Area And is a structure built in Metaverse, which is built by scaling the current Real World Stadium and Arenas with the current location. In this structure, Live broadcasts will meet users in Virtual Stadiums in 3D and users will find the opportunity to watch sports events like they were at the Stadiums while they are at their own homes. Heptagon Metaverse refers to an ecosystem that uses Blockchain technologies products and data systems.
+&#x20;   `<div align=justify>    Heptagon Metaverse mentioned above is focused to transport the world of sports to Metaverse Area And is a structure built in Metaverse, which is built by scaling the current Real World Stadium and Arenas with the current location. In this structure, Live broadcasts will meet users in Virtual Stadiums in 3D and users will find the opportunity to watch sports events like they were at the Stadiums while they are at their own homes. Heptagon Metaverse refers to an ecosystem that uses Blockchain technologies products and data systems. </div>`
 
 <figure><img src=".gitbook/assets/photo_2022-10-23_17-15-22.jpg" alt=""><figcaption><p>Heptagon Sports Metaverse</p></figcaption></figure>
 
