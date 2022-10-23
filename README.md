@@ -3,6 +3,7 @@ description: >-
   The HEPTAGON brings and gives a new vision to create value as a part of the
   sports industry, and brings a new breath to the METAVERSE universe also
   provides...
+layout: landing
 ---
 
 # WELCOME TO THE WORLD'S LARGEST STADIUM
