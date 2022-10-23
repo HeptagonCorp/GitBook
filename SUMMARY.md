@@ -32,6 +32,8 @@
 * [Distribution of stake income](idea/distribution-of-stake-income.md)
 * [HEPTA TOKENOMICS](idea/hepta-tokenomics.md)
 * [Vesting](idea/vesting.md)
+* [Hepta Token Wallets](idea/hepta-token-wallets.md)
+* [FINAL WORDS ON HEPTAGON](idea/final-words-on-heptagon.md)
 * [Page 1](idea/page-1.md)
 
 ## Group 2
