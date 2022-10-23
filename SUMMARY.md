@@ -15,6 +15,10 @@
 * [MAIN DEFINITIONS](idea/main-definitions.md)
 * [Extended Reality](idea/extended-reality.md)
 * [PROBLEM AND SOLUTIONS](idea/problem-and-solutions.md)
+* [Sports Metaverse](idea/sports-metaverse.md)
+* [INDUSTRY ASSESSMENT](idea/industry-assessment.md)
+* [Sports Industry](idea/sports-industry.md)
+* [KEY COMPONENTS OF THE SPORTS INDUSTRY](idea/key-components-of-the-sports-industry.md)
 * [Page 1](idea/page-1.md)
 
 ## Group 2
