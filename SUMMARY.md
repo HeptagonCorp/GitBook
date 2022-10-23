@@ -9,7 +9,12 @@
 * [Heptagon Metaverse](idea/heptagon-metaverse.md)
 * [OUR MISSION](idea/our-mission.md)
 * [BLOCKCHAIN](idea/blockchain.md)
-* [Page 4](idea/page-4.md)
+* [Metaverse](idea/metaverse.md)
+* [HEPTAGON METAVERSE SUMMARY](idea/heptagon-metaverse-summary.md)
+* [Heptagon Metaverse](idea/heptagon-metaverse-1.md)
+* [MAIN DEFINITIONS](idea/main-definitions.md)
+* [Extended Reality](idea/extended-reality.md)
+* [PROBLEM AND SOLUTIONS](idea/problem-and-solutions.md)
 * [Page 1](idea/page-1.md)
 
 ## Group 2
