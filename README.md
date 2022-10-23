@@ -6,9 +6,7 @@ description: >-
 layout: landing
 ---
 
-# Heptagon Metaverse
-
-## WELCOME TO THE WORLD'S LARGEST STADIUM
+# WELCOME TO THE WORLD'S LARGEST STADIUM
 
 ### Why is Heptagon Metaverse? <a href="#why-heptagon" id="why-heptagon"></a>
 
