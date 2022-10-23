@@ -1,3 +1,4 @@
+<div align=justify>
 # 🗺 OUR MISSION
 
 ## Heptagon's Mission <a href="#heptagons-mission" id="heptagons-mission"></a>
@@ -11,3 +12,4 @@ However, as HEPTAGON, we believe that the most critical feature of Metaverse sho
 For this reason, we create new opportunities for investors by reinterpreting the economic structure of the Sports World in the METAVERSE area.
 
 In a word, we are building a new universe for the Sports Economy by bringing the World of Sports to the METAVERSE Field with BLOCKCHAIN technologies' products.
+</div>
