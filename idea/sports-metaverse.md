@@ -4,7 +4,7 @@ Limits and Opportunities :
 
 While economic limits and time are the most important reality that restricts people, with Metaverse, the doors of the opportunity for people to reach the inaccessible are opened.&#x20;
 
-<figure><img src="../.gitbook/assets/MetaverseHeptatoken.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MetaverseHeptatoken.png" alt=""><figcaption><p>Extended Reality</p></figcaption></figure>
 
 A new "ERA" in Access to Sports :
 
