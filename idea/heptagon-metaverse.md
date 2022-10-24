@@ -2,7 +2,7 @@
 
 2018 CORE TEAM GATHERING
 
-The aggregation of the  core  team, who are  passionate about sports and blockchain, coincides with 2018. Amateur football matches  continue on the one hand, and one of the most known Blockchain Technology products, conversancy with Cryptocurrencies In Play Station games, the idea of getting into the game and METAVERSE….
+The aggregation of the core team, who are passionate about sports and blockchain, coincides with 2018. Amateur football matches continue on the one hand, and one of the most known Blockchain Technology products, conversancy with Cryptocurrencies... In Play Station games, the idea of getting into the game and METAVERSE….
 
 {% embed url="https://www.youtube.com/watch?v=Yk2r9iXdGIU" %}
 Sports Metaverse
@@ -18,11 +18,11 @@ The beginning of new excitement in the days when we are closed to our homes as i
 
 2021 THE PROCESS OF CONSTRUCTING THE HEPTAGON MAIN COMPONENTS
 
-After  more   than  three  years  of  incubation  and  action,  HEPTAGON was built as a Metaverse, and  the  first  WhitePaper  drafts  emerged. After  this  process,  the  first website trials of the team's software developers and the introduction of our first 360° match  recordings  to  our  environment.  of  our  first  360°  match  recordings  to our environment.
+After more than three years of incubation and action, HEPTAGON was built as a Metaverse, and the first WhitePaper drafts emerged. After this process, the first website trials of the team's software developers and the introduction of our first 360° match recordings to our environment. of our first 360° match recordings to our environment.
 
 2022 ESTABLISHMENT OF HEPTAGON COMPANY 01
 
-The concrete emergence of  the  HEPTAGON  company  resulted  from  all  plans  and fictions, trademark patent application…
+The concrete emergence of the HEPTAGON company resulted from all plans and fictions, trademark patent application…
 
 HEPTAGON WEBSITE 02
 
@@ -30,4 +30,4 @@ Moving the Heptagon Website to its current server…
 
 THE BIRTH OF HEPTA TOKEN 03
 
-Creation of Hepta Token Contract. Writing the Hepta Token Distribution  Contract and starting the Hepta Token ICO process.
+Creation of Hepta Token Contract. Writing the Hepta Token Distribution Contract and starting the Hepta Token ICO process.
