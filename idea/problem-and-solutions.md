@@ -3,6 +3,11 @@
 * With the increasing population in the world, we live in today, while the endless demands of people are increasing, the opportunities are decreasing at that rate or even more.&#x20;
 * One thing is certain even the world's largest stadiums have a limited capacity in the last instance.&#x20;
 * Moreover, the problem with people's access is not only the limited seat capacity of the Stadiums or Arenas.&#x20;
+
+<figure><img src="../.gitbook/assets/DGG.jpg" alt=""><figcaption><p>Real Stadium </p></figcaption></figure>
+
+
+
 * There are far greater barriers to people's access to this restricted Area. First of all, not every person can travel to the country where the championship is held to watch the closing game of the world cup, or it is not an easy task for a person to go to America from Japan to watch the match of the team who is a fan of in the NBA league.&#x20;
 * The first obstacle in front of people is their economic limits, and the second and much more important obstacle is time. Even if the possibilities have expanded economically, human time is not a reality that can scale up to that extent.&#x20;
 * Time is a constantly flowing and disappearing phenomenon as the most valuable asset of us. However, people can watch sports events in the unlimited number of seats that will be created in the Stadiums to be created in Virtual Environments, and with the solution proposal of Heptagon Metaverse, they can do this with minimum cost and minimum time loss. While going to work on the train or ferry, people can connect to Heptagon Metaverse and watch the matches in 3D as if they were in the Stadium.&#x20;
