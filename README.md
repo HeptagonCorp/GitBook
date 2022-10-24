@@ -8,7 +8,7 @@ layout: editorial
 
 # WELCOME TO THE WORLD'S LARGEST STADIUM
 
-<figure><img src=".gitbook/assets/Heptagon.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/heptatokens.png" alt=""><figcaption><p>Heptagon Sports Metaverse</p></figcaption></figure>
 
 ## Documents
 
