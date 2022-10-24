@@ -8,6 +8,7 @@
 * Instagram : @HEPTAGONCORP&#x20;
 * Mail : SUPPORT@HPTGN.IO&#x20;
 * Mail : BUSINESS@HPTGN.IO
-*
 
-    <figure><img src="../.gitbook/assets/HEPTAGONLOGOMAIN.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/HEPTAGONLOGOMAIN.png" alt=""><figcaption></figcaption></figure>
