@@ -2,17 +2,17 @@
 
 ## 💡 IDEA
 
-* [🎈 HEPTAGON METAVERSE IDEA](README.md)
+* [🎈 Heptagon Metaverse Idea](README.md)
 * [🗓 The Development Plan](idea/the-development-plan.md)
 * [Contents](idea/contents.md)
 * [How Did Heptagon Idea Emerged?](idea/how-did-heptagon-idea-emerged.md)
 * [Heptagon Metaverse](idea/heptagon-metaverse.md)
-* [OUR MISSION](idea/our-mission.md)
-* [BLOCKCHAIN](idea/blockchain.md)
+* [Our Mission](idea/our-mission.md)
+* [Blockchain](idea/blockchain.md)
 * [Metaverse](idea/metaverse.md)
-* [HEPTAGON METAVERSE SUMMARY](idea/heptagon-metaverse-summary.md)
+* [Heptagon Metaverse Summary](idea/heptagon-metaverse-summary.md)
 * [Heptagon Metaverse](idea/heptagon-metaverse-1.md)
-* [MAIN DEFINITIONS](idea/main-definitions.md)
+* [Main Definitions](idea/main-definitions.md)
 * [Extended Reality](idea/extended-reality.md)
 * [PROBLEM AND SOLUTIONS](idea/problem-and-solutions.md)
 * [Sports Metaverse](idea/sports-metaverse.md)
