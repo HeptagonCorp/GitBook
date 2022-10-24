@@ -19,7 +19,7 @@
 * [Industry Assessment](idea/industry-assessment.md)
 * [Sports Industry](idea/sports-industry.md)
 * [Key Components Of The Sports Industry](idea/key-components-of-the-sports-industry.md)
-* [HEPTAGON METAVERSE](idea/heptagon-metaverse-2.md)
+* [Heptagon Metaverse](idea/heptagon-metaverse-2.md)
 * [Heptagon Adevertising](idea/heptagon-adevertising.md)
 * [Metaverse -1](idea/metaverse-1.md)
 * [Metaverse -2](idea/metaverse-2.md)
