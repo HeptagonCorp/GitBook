@@ -1,6 +1,8 @@
 # Contact Us
 
-* HEPTAGON METAVERSE&#x20;
+sgfgg
+
+* ~~HEPTAGON METAVERSE~~&#x20;
 * Twitter : @HEPTAGONCORP&#x20;
 * Linkedin : HEPTAGON METAVERSE&#x20;
 * Reddit : U/HEPTAGONCORP&#x20;
