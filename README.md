@@ -8,14 +8,16 @@ layout: editorial
 
 # WELCOME TO THE WORLD'S LARGEST STADIUM
 
+<figure><img src=".gitbook/assets/Hepta.png" alt=""><figcaption><p>Heptagon Sports Metaverse</p></figcaption></figure>
+
 ## Documents
 
 {% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/" %}
-[WhitePaper](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/)
+[WhitePaper | Heptagon](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/zcDvoEZ2D00y23NGIU9x/)
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/" %}
-[PitchDeck](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/)
+[PitchDeck | Heptagon](https://app.gitbook.com/o/xOk0DPBj59NXtFRCUVaU/s/KGQoJrDWw7JPtQoBRiVh/)
 {% endcontent-ref %}
 
 ## Why is Heptagon Metaverse? <a href="#why-heptagon" id="why-heptagon"></a>
