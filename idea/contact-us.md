@@ -1,5 +1,8 @@
 # Contact Us
 
+*
+
+    <figure><img src="../.gitbook/assets/Contacts.png" alt=""><figcaption></figcaption></figure>
 * HEPTAGON METAVERSE&#x20;
 * Twitter : @HEPTAGONCORP&#x20;
 * Linkedin : HEPTAGON METAVERSE&#x20;

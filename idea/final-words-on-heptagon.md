@@ -1,8 +1,10 @@
-# FINAL WORDS ON HEPTAGON
+# Final Words on Heptagon
 
 &#x20;     As Heptagon, we build metaverse on two basic principles that complement each other: 3D Virtual World and Blockchain.
 
 &#x20;     We are building Stadiums, Arenas in Heptagon Metaverse. Users of Heptagon Metaverse will be able to connect with their decentralized wallets and watch live broadcasts on a different level of 3D option. We going to bring all events starting from Sports all the way to another end of Arts all on the live broadcast platform, which can be watched as well with the option also on 3D but of course, in our Metaverse environment, connecting The Virtual Universe with a real-world on Heptagon Metaverse that we're creating. Stadiums, Arenas are real and being built at the HEPTAGON METAVERSE with the same coordinates in the world.
+
+<figure><img src="../.gitbook/assets/HeptaToken.png" alt=""><figcaption><p>Heptagob Sports Metaverse</p></figcaption></figure>
 
 What are users waiting for in Heptagon Metaverse?
 

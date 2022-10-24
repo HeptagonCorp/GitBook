@@ -1,5 +1,7 @@
 # Income & Expenses
 
+<figure><img src="../.gitbook/assets/photo_2022-10-25_01-37-42.jpg" alt=""><figcaption></figcaption></figure>
+
 * Sponsored Deal revenues&#x20;
 * NFT and avatar market transaction revenues&#x20;
 * Live streaming fee revenues&#x20;

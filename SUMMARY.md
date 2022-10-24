@@ -33,7 +33,7 @@
 * [Hepta Tokenomics](idea/hepta-tokenomics.md)
 * [Vesting](idea/vesting.md)
 * [Hepta Token Wallets](idea/hepta-token-wallets.md)
-* [FINAL WORDS ON HEPTAGON](idea/final-words-on-heptagon.md)
+* [Final Words on Heptagon](idea/final-words-on-heptagon.md)
 * [Contact Us](idea/contact-us.md)
 
 ## Group 2

@@ -34,3 +34,6 @@
 
 
 * Heptagon Reward Pool 0xF92e0F905436a41C6402E5E49E16fc7ae544A717
+*
+
+    <figure><img src="../.gitbook/assets/photo_2022-09-20_23-52-54.jpg" alt=""><figcaption></figcaption></figure>
