@@ -1,5 +1,8 @@
 # Contents
 
+*
+
+    <figure><img src="../.gitbook/assets/Content.png" alt=""><figcaption><p>Content Heptagon Whitepaper</p></figcaption></figure>
 * Summary
 * General Terms
 * Our Mission
@@ -14,4 +17,4 @@
 * Team
 * The Advisor
 * Final Words on Heptagon
-*
+

@@ -4,6 +4,8 @@
 
 The aggregation of the core team, who are passionate about sports and blockchain, coincides with 2018. Amateur football matches continue on the one hand, and one of the most known Blockchain Technology products, conversancy with Cryptocurrencies... In Play Station games, the idea of getting into the game and METAVERSE….
 
+{% embed url="https://youtu.be/H8pdt-8XE0I" %}
+
 2019 BLACK MIRROR EFFECT
 
 The development of the idea of carrying the Sports World to a Virtual world with our teammates, who are fans of the Black Mirror series, and the emergence of the name HEPTAGON….

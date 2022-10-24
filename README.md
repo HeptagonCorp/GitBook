@@ -14,7 +14,7 @@
 
 &#x20;           For this, the HEPTAGON METAVERSE area can participate in sports fans of all ages and all over the world, follow sports activities, perform Virtual Sports meetings, and also. With the 3D Live Broadcast experience, we create an environment where it can watch encounters like they're in the stadium's even when they're enjoying it from there homes.
 
-<figure><img src=".gitbook/assets/photo_2022-10-23_16-57-26.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-10-23_16-57-26.jpg" alt=""><figcaption><p>Virtual Reality</p></figcaption></figure>
 
 
 

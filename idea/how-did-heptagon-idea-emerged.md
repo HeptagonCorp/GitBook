@@ -8,6 +8,8 @@ individual, but mostly sports in every way in our life. We are sports enthusiast
 
 &#x20;
 
+<figure><img src="../.gitbook/assets/metaverse Kopyası.png" alt=""><figcaption><p>Heptagon Sports</p></figcaption></figure>
+
 &#x20;
 
 Heptagon Metaverse is the product of the team that has long been researching and studying for this, looking for ways to combine Blockchain technology and Sport with

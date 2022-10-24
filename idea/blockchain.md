@@ -4,6 +4,8 @@ Although Blockchain Technologies is known chiefly worldwide for Cryptocurrencies
 
 Blockchain. The main point to be understood is Blockchain is a -a type of database-where all data transfers can be recorded without theneed for 3rd parties, which opens the doors of decentralized finance to us.
 
+<figure><img src="../.gitbook/assets/photo_2022-10-23_16-57-18.jpg" alt=""><figcaption><p>Sports Chain</p></figcaption></figure>
+
 &#x20;
 
 Blockchain, Smart Contracts, Tokenization, and many applications that do not need 3rd parties are now a part of our lives. We firmly believe that shortly, people will distinguish between "before and after blockchain" when referring to the past. Blockchain has eliminated the "Trust Problem" of the data with the principle of "trustless."

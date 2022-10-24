@@ -4,6 +4,8 @@
 
 &#x20;  Metaverse environment, shop from Sports Stores, mint and trade NFTs, participate in individual or team sports with their Avatars, and do sports in the Metaverse area under one roof.
 
+<figure><img src="../.gitbook/assets/photo_2022-10-23_17-06-21.jpg" alt=""><figcaption><p>Fun World</p></figcaption></figure>
+
 &#x20;
 
 &#x20;     However, as Heptagon, we believe that the most critical feature of Metaverse should be a universe that benefits users with an economy
