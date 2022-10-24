@@ -2,9 +2,9 @@
 
 Virtual Reality (VR) :&#x20;
 
-The use of computer technology to create an environment that takes place in the real world, like an environment or an area in the real world is something that Users will have the chance to feel and enjoy. Here also the viewer will be able to jump into a similar swimming pool of the real world, for example, designed always in 3D. A person who does this with VR glasses will experience the same way in the real experience as VR glasses will experience a 3-dimensional drop in the moment of falling into the pool.” In a sense, the Virtual Reality field wins the feeling that with the help of Virtual Reality glasses, entered into this area. Or as in a virtual reality driving test, the user gains experience as if they are driving a real car. Because in this environment, our users will be living a view of reality. As in a real road, the virtual one progresses in the form of a view of truth, and the reactions it has given result in a response to the events that occu
+The use of computer technology to create an environment that takes place in the real world, like an environment or an area in the real world is something that Users will have the chance to feel and enjoy. Here also the viewer will be able to jump into a similar swimming pool of the real world, for example, designed always in 3D. A person who does this with VR glasses will experience the same way in the real experience as VR glasses will experience a 3-dimensional drop in the moment of falling into the pool.” In a sense, the Virtual Reality field wins the feeling that with the help of Virtual Reality glasses, entered into this area. Or as in a virtual reality driving test, the user gains experience as if they are driving a real car. Because in this environment, our users will be living a view of reality. As in a real road, the virtual one progresses in the form of a view of truth, and the reactions it has given result in a response to the events that occur.
 
-<figure><img src="../.gitbook/assets/vr.png" alt=""><figcaption><p>360 Degree Extended Reality</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Extended Reality.jpg" alt=""><figcaption><p>Extended Reality</p></figcaption></figure>
 
 Augmented Reality:&#x20;
 

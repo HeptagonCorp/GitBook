@@ -4,7 +4,9 @@
 
 The aggregation of the core team, who are passionate about sports and blockchain, coincides with 2018. Amateur football matches continue on the one hand, and one of the most known Blockchain Technology products, conversancy with Cryptocurrencies... In Play Station games, the idea of getting into the game and METAVERSE….
 
-{% embed url="https://youtu.be/H8pdt-8XE0I" %}
+{% embed url="https://www.youtube.com/watch?v=Yk2r9iXdGIU" %}
+Sports Metaverse
+{% endembed %}
 
 2019 BLACK MIRROR EFFECT
 
