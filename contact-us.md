@@ -1,6 +1,6 @@
 # Contact us
 
-<figure><img src=".gitbook/assets/ath-gfx.png" alt=""><figcaption><p>HEPTAGON METAVERSE</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Contacts.png" alt=""><figcaption><p>Contact Us</p></figcaption></figure>
 
 Twitter :     @HEPTAGONCORP&#x20;
 

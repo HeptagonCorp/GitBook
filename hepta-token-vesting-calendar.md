@@ -1,5 +1,7 @@
 # HEPTA TOKEN VESTING CALENDAR
 
+<figure><img src=".gitbook/assets/photo_2022-10-25_01-34-17.jpg" alt=""><figcaption></figcaption></figure>
+
 Period Release Rate Release Date&#x20;
 
 1st ICO&#x20;

@@ -36,3 +36,5 @@ Partnerships\*\*\*\*\*\*                                     27M. (%7,5)
 
 
 
+<figure><img src=".gitbook/assets/Hepta.png" alt=""><figcaption></figcaption></figure>
+

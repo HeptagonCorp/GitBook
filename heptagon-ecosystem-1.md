@@ -12,6 +12,8 @@ b- Tokenization of the abovementioned performance-oriented areas and products of
 
 c- Sports broadcasts&#x20;
 
+<figure><img src=".gitbook/assets/photo_2022-10-23_17-27-15.jpg" alt=""><figcaption></figcaption></figure>
+
 d- Rewarding Sports Fans with Tokens In this sense, we have Tokenized the basic components of the Sports world in Heptagon Metaverse.&#x20;
 
 All transactions in Heptagon Metaverse; Live broadcast events, NFT and AVATAR market transactions, purchases from official stores of Clubs, and purchases from Sports Stores are all recorded on BLOCKCHAIN and protected transparently and securely. Thus, user transactions are recorded in a highly sensitive and transparent manner, and a secure shopping opportunity is created.
